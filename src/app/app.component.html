@@ -1,4 +1,18 @@
-<hello name="{{ name }}"></hello>
-<p>
-  Start editing to see some magic happen :)
-</p>
+<mat-sidenav-container class="example-container">
+  <mat-sidenav mode="side" [opened]="menuOpen">
+    <ul>
+      <li>
+        <a routerLink="/">Home</a>
+      </li>
+      <li>
+        <a href="/archive" target="_blank">Archive</a>
+      </li>
+    </ul>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <app-tool-bar></app-tool-bar>
+    <div id="content">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
