@@ -1,6 +1,6 @@
 # To Do App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8. Read my full explanation of this code [here](https://blog.marklreyes.com/angular-9-task-app-with-ngrx-drag-drop/).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8. Read my full explanation of this code [here](https://www.marklreyes.com/angular-9-task-app-with-ngrx-drag-drop/).
 
 ## Features
 
