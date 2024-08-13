@@ -4,16 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Features
 
-Provide sorting by table columns and searching.
-
-Add sorting by multiple columns and persist the sorting on refresh.
-
-Add the ability to drag and drop columns to reorder them using the native [Angular cdk drag and drop](https://material.angular.io/cdk/drag-drop/overview).
-
-Add ability to manually resize the columns by dragging with the mouse.
-
-Use Angular, RxJs and NgRx [ngrx](https://ngrx.io/) for state management.
-
+* Provide sorting by table columns and searching.
+* Add sorting by multiple columns and persist the sorting on refresh.
+* Add the ability to drag and drop columns to reorder them using the native [Angular cdk drag and drop](https://material.angular.io/cdk/drag-drop/overview).
+* Add ability to manually resize the columns by dragging with the mouse.
+* Use Angular, RxJs and NgRx [ngrx](https://ngrx.io/) for state management.
 
 ## Development server
 
